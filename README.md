@@ -1,5 +1,5 @@
 
-# AG News Classification
+# News Classification
 
 This project performs news article classification on the News dataset using multiple approaches including classical machine learning (Logistic Regression, Random Forest) and a feedforward neural network built with TensorFlow/Keras.
 
